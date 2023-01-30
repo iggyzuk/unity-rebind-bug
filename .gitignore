@@ -1,0 +1,14 @@
+*~
+.DS_Store
+Builds
+Library
+Temp
+obj
+Logs
+*.csproj
+.vs
+.vscode
+*.sln
+.gradle
+.idea
+UserSettings
